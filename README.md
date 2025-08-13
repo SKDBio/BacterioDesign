@@ -11,6 +11,9 @@ A comprehensive bioinformatics platform for bacteriocin identification, similari
 📊 **Comprehensive Analysis**: 50+ physicochemical and structural features
 🚀 **Production API**: FastAPI-based REST interface
 🐳 **Docker Ready**: Containerized deployment
+<img width="1024" height="1024" alt="1" src="https://github.com/user-attachments/assets/6927c3cc-0c2c-47a7-b890-3492ab26fee1" />
+<img width="1024" height="1536" alt="c77ad605-bd59-4efc-83c8-173e59d227d7" src="https://github.com/user-attachments/assets/b2092227-31fe-480d-8852-72922917f631" />
+<img width="1536" height="1024" alt="3356985f-d92c-4d05-8a80-1a25ab430867" src="https://github.com/user-attachments/assets/ec0cdf81-cec9-49db-a13a-6cc437effa1d" />
 
 
 
