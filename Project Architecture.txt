@@ -1,0 +1,30 @@
+bacterio_design/
+├── src/
+│   ├── __init__.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   ├── sequence_processor.py
+│   │   ├── database_manager.py
+│   │   └── feature_extractor.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── bacteriocin_classifier.py
+│   │   ├── similarity_analyzer.py
+│   │   └── design_generator.py
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   └── endpoints.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── config.py
+│       └── validators.py
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── models/
+├── tests/
+├── docs/
+├── requirements.txt
+├── Dockerfile
+└── README.md
